@@ -1,0 +1,12 @@
+a {
+    display: inline-block;
+    padding: 10px 50px;
+    background: lightblue;
+    color: brown;
+    border-radius: 5px;
+}
+
+a:hover {
+    background: #f1f1f1;
+    color: red;
+}
